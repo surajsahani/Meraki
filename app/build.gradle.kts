@@ -56,4 +56,6 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
     //Moshi
     implementation("com.squareup.retrofit2:converter-moshi:2.8.1")
+    //Glide
+    implementation("com.github.bumptech.glide:glide:4.12.0")
 }
